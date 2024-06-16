@@ -1,0 +1,50 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+ENV.bak/
+venv.bak/
+pyenv/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.so
+*.sqlite3
+*.pdb
+
+# Virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage
+.coverage
+.tox
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# mypy
+.mypy_cache/
+
+# pyright
+.pyright/
+.pyright-cache/
+
+# Environments
+.env
+.envrc
+venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
