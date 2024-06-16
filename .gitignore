@@ -16,7 +16,7 @@ pyenv/
 *.pot
 *.py[cod]
 *.so
-*.sqlite3
+
 *.pdb
 
 # Virtualenv
